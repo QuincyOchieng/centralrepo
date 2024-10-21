@@ -1,0 +1,1 @@
+Project to learn Git. I started by creating two instances in AWS. One in Oregon and another one in Singapore. My goal to initialize git in both machines and share files between the two instances using github as the central repository.
